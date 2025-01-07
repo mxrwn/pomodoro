@@ -1,0 +1,16 @@
+{
+  "name": "pomodoro",
+  "version": "1.0.0",
+  "description": "This app will be used to use a pomodoro in a simple &amp; user friendly way",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^33.3.1"
+  }
+}
